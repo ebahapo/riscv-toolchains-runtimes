@@ -16,9 +16,11 @@ We are reporting to the RVI Software HC.
 Our reporting RVI groups:
 
 * TG Overlays
-* SIG Code Speed
-* TG psABI (in inception phase)
+* SIG Code Optimization
+  * SIG Speed Optimization
+  * SIG Size Optimization
 * TG EABI
+* TG psABI (in inception phase)
 * SIG Managed Runtimes (in inception phase)
 
 Planned future groups:
